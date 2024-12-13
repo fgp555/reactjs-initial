@@ -1,0 +1,7 @@
+.MyAppNav {
+    display: flex;
+    gap: 1rem;
+}
+.active {
+    text-decoration: underline;
+}
